@@ -1,0 +1,71 @@
+body{
+    background-color: aliceblue;
+}
+#meuNome{
+  font-size: 30px;
+  color: rgb(0, 0, 71);
+  text-align: center;
+}
+#sobreMim{
+  font-size: 20px;
+  text-align: justify;
+  background-color: whitesmoke;
+  border: 2px solid;
+}
+.lista{
+    text-align: center;
+  padding: 11px;
+  
+}
+#lista1, #lista2, #lista3{
+    text-align: center;
+    margin-top: 20px;
+}
+#imgAcamps{
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 250px;
+    position: relative;
+    left: 37%;
+    display: block;
+}
+
+.tabela{
+  margin: 2px solid black;
+  text-align: center;
+  align-items: center;
+  font-size: 20px;
+}
+img{
+    height: 80px;
+}
+#headTabela{
+    position: relative;
+    text-align: center;
+    border: 2px solid;
+    font-size: 20px;
+}
+th, td{
+  border: 2px solid black;
+  padding: 10px 20px;
+  text-align: center;
+  position: relative;
+  left: 630px;
+}
+#botao{
+    position: relative;
+    text-align: center;
+    left: 42%;
+}
+#fraseMotivacional{
+    position: relative;
+    left: 30%;
+}
+#linkTech{
+    position: relative;
+    top: 20px;
+    left: 40%;
+}
+a:hover{
+      color: black; 
+}
